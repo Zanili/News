@@ -1,4 +1,4 @@
-# vue3-demo
+# News
 
 ## Project setup
 ```
